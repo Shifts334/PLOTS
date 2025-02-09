@@ -1,2 +1,2 @@
-# Work_Assignment_2_Data_Analytics
-This serves as a submission bin repository for Prof. Gerard Ompad
+# PLOTS Assignment
+This serves as a submission bin repository for the work assignment assigned by Prof. Gerard Ompad
